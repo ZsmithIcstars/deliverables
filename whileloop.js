@@ -3,7 +3,5 @@ function printEvenNumbers(n) {
       console.log(i);
     }
   }
-  
-  // Example usage:
-  const n = 10; // Change 'n' to the desired number
+  const n = 10; 
   printEvenNumbers(n);
